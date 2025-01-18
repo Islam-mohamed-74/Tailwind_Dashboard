@@ -1360,6 +1360,23 @@ video {
   .latest-news .box .image {
     margin-bottom: 10px;
   }
+
+  .reminders .bool{
+    top: 0.25rem;
+    display: block;
+    height: 1.25rem;
+    width: 1.25rem;
+  }
+
+  table tbody td span{
+    display: block;
+    padding: 0.25rem;
+  }
+
+  table tbody img{
+    margin-bottom: 1rem;
+    display: block;
+  }
 }
 
 table tbody tr{

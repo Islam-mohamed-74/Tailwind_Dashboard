@@ -51,6 +51,15 @@
   .latest-news .box .image {
     margin-bottom: 10px;
   }
+  .reminders .bool {
+    @apply w-5 h-5 top-1 block;
+  }
+  table tbody td span {
+    @apply block p-1;
+  }
+  table tbody img {
+    @apply block mb-4;
+  }
 }
 table tbody tr {
   @apply hover:bg-gray-100 transition-all duration-300;
